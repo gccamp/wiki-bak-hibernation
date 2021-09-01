@@ -1,5 +1,6 @@
 # Inbox
 
+- 这个破玩意让跟感觉是一团谜。
 - Here you can write disorganised notes to be categorised later
 - Bullet points are useful, but it could be free form text as well
 - Sometimes it's better to just get things off your mind quickly, rather than stop to think where it belongs
