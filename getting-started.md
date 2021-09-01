@@ -13,7 +13,9 @@ tags:
 - [[编剧故事营第六期]]下周开启
   - 这个wiki将派上用场
 
-
+- [剪片子](https://github.com/gccamp/wiki/blob/dd4189da7726923b1d9055df5b564dd6e09afc60/剪片子.md)
+- [ArcTime](https://github.com/gccamp/wiki/blob/dd4189da7726923b1d9055df5b564dd6e09afc60/ArcTime.md)
+- [制作成本](https://github.com/gccamp/wiki/blob/dd4189da7726923b1d9055df5b564dd6e09afc60/视频带不带字幕有天壤之别.md)
 
 Welcome to your new foam workspace, let's get you started.
 
