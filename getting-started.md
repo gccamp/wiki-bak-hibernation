@@ -1,4 +1,19 @@
+---
+title: 我的第一个wiki
+tags: 
+  - wiki
+  - 抓狂
+---
+
 # Getting Started
+
+第一个wiki让我抓狂。
+
+希望我不要再遇见讨厌的事。
+
+真是太奇怪了。
+
+简直就像生活在三体星球上一样。
 
 Welcome to your new foam workspace, let's get you started.
 
