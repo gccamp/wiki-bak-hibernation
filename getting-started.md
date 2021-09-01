@@ -7,13 +7,13 @@ tags:
 
 # Getting Started
 
-第一个wiki让我抓狂。
+- [[剪片子]]是人生基本技能
+- 我正在学习 [[ArcTime]] 因为我发现 [[视频带不带字幕有天壤之别]]
+  - 但是视频制作是需要成本的，所以不能不考虑 [[视频制作成本]]
+- [[编剧故事营第六期]]下周开启
+  - 这个wiki将派上用场
 
-希望我不要再遇见讨厌的事。
 
-真是太奇怪了。
-
-简直就像生活在三体星球上一样。
 
 Welcome to your new foam workspace, let's get you started.
 
